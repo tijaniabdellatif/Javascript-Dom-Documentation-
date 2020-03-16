@@ -1,4 +1,4 @@
-# Booking-front-app
+# JAVASCRIPT
 
 ## Welcome! 👋
 
