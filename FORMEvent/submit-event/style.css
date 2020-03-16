@@ -1,0 +1,47 @@
+body{
+
+    background: #eee;
+
+} 
+
+form{
+
+    max-width : 200px;
+    margin : 40px auto;
+    background: white;
+    padding: 10px;
+}
+
+
+input {
+    display : block;
+    margin : 10px auto;
+    padding : 4px;
+}
+
+.error{
+
+    padding : 10px;
+    color : crimson;
+    border : 1px dotted crimson;
+}
+
+.suces {
+
+    padding: 10px;
+    color : limegreen;
+    border : 1px dotted limegreen
+}
+
+
+.passed{
+
+   border : 4px solid greenyellow;
+
+}
+
+
+.not{
+
+   border : 4px solid crimson;
+}
